@@ -1,3 +1,6 @@
+result
+.direnv/
+
 # macOS local stores
 .DS_Store
 
